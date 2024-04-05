@@ -55,11 +55,11 @@ void loop()
 ### OUTPUT
 ### FIG 1 CIRCUIT DIAGRAM
 
-![exp 6 circuit](https://github.com/dineshdk154/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/104413084/463bba8b-5bcd-4d13-9799-bbacb3943c26)
+![Screenshot 2024-04-05 155715](https://github.com/rohitkumar20700000/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/130482461/16359554-5328-4a97-8102-6d56149829b5)
 
 ### FIG 2 SCHEMATIC DIAGRAM
 
-![exp 6 schematic](https://github.com/dineshdk154/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/104413084/aa0ed257-41e6-441a-828f-61c35e3504a8)
+![EX-06 Rohit kumar M (212221220045)_page-0001](https://github.com/rohitkumar20700000/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/130482461/a888d9f2-30c5-44bd-b475-d435eaa4445e)
 
 
 
