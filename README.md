@@ -1,12 +1,10 @@
+# Exp-6- DC-Motor-Speed-Control-Using-Arduino
+#  DATE: 08-04-2024 
+#  NAME: ROHIT KUMAR M
+#  ROLL NO : 212221220045
+#  DEPARTMENT: INFORMATION TECHNOLOGY
 
-###  DATE:05-04-2024 
-
-###  NAME: M ROHIT KUMAR
-###  ROLL NO :212221220045
-###  DEPARTMENT:INFORMATION TECHNOLOGY
-# Experiment-no-6-DC-Motor-Speed-Control-Using-Arduino
 ### AIM : To control the speed and the direction of a DC motor using L293D driver ic( H- bridge)
-
 ### Components Required:
 •	Arduino UNO board
 •	L293D driver
